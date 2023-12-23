@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Chat Rooms",
+    "imageSrc": "projects/project.png",
+    "description": "developed a progressive real-time chat application enabling users to chat with added background animations enhancing the overall user experience.",
+    "skills": ["React Hooks", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nishanki-singh/Chat-Rooms "
+  },
+  {
+    "title": "Cursor Motion Using Eyes",
+    "imageSrc": "projects/project.png",
+    "description": "developed a face-recognition based application enabling users to control mouse movements through eye and face tracking.",
+    "skills": ["Python", "OpenCV", "Dlib", "Pyqt5", "Pynput"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nishanki-singh/Cursor-motion-using-eyes "
+  },
+  {
+    "title": "ShopSphere",
+    "imageSrc": "projects/project.png",
+    "description": "built an e-commerce website with responsive design ensuring efficient and scalable performance for a seamless online shopping experience.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/nishanki-singh/My-e-commerce-website "
+  }
+]
