@@ -12,19 +12,27 @@ export const Contact = () => {
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
+          <img src={getImageUrl("contact/mobile.png")} alt="Phone" />
+          <a href=" " > +91-9548695149 </a>
+        </li>
+        <li className={styles.link}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
-          <a href="mailto:nishanki24.singh@gmail.com">nishanki24.singh@gmail.com</a>
+          <a href="mailto:nishanki24.singh@gmail.com" target="_blank" >nishanki24.singh@gmail.com</a>
         </li>
         <li className={styles.link}>
           <img
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           />
-          <a href="http://www.linkedin.com/in/nishanki-singh">www.linkedin.com/in/nishanki-singh</a>
+          <a href="http://www.linkedin.com/in/nishanki-singh" target="_blank" >www.linkedin.com/in/nishanki-singh</a>
         </li>
         <li className={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
-          <a href="https://github.com/nishanki-singh">github.com/nishanki-singh</a>
+          <a href="https://github.com/nishanki-singh" target="_blank" >github.com/nishanki-singh</a>
+        </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/location.png")} alt="Github icon" />
+          <a href=" "> Kashipur, Uttrakhand</a>
         </li>
       </ul>
     </footer>
