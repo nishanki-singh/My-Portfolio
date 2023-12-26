@@ -35,6 +35,9 @@ export const Contact = () => {
           <a href=" "> Kashipur, Uttrakhand</a>
         </li>
       </ul>
+      {/* <div class="copyright">
+          <p>© Nishanki Singh</p>
+      </div> */}
     </footer>
   );
 };
